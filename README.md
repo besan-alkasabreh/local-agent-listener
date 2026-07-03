@@ -56,10 +56,4 @@ Type `help` to display the available commands.
 | `history` | Show the last commands sent |
 | `quit` | Close the session |
 
-## Important Notes
-
-- The default host is `127.0.0.1`, so the project runs locally on the same machine.
-- Use this project only in authorized environments.
-- Do not upload sensitive files, passwords, tokens, or API keys to GitHub.
-- Before publishing, review the code and repository description to make it clear that this is an educational localhost socket lab.
 
